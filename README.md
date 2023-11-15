@@ -1,7 +1,7 @@
 # default-typescript-project-template
 A useful starting template for your new typescript project! Comes with playwright and jest typing preconfigured.
 
-*tsconfig.json preset*
+*tsconfig.json presets*
 ```json
 {
   "include": [
@@ -78,7 +78,7 @@ A useful starting template for your new typescript project! Comes with playwrigh
 }
 ```
 
-*.vscode/tasks.json preset*
+*.vscode/tasks.json presets*
 ```json
 {
     "version": "2.0.0",
