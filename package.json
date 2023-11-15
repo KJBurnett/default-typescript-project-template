@@ -1,0 +1,17 @@
+{
+  "name": "default-typescript-project-template",
+  "version": "1.0.0",
+  "description": "A template project to easily start from scratch with your new typescript project because it often is very confusing!...",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build:ts": "tsc",
+    "build": "yarn build:ts"
+  },
+  "dependencies": {
+    "playwright": "^1.39.0",
+    "@types/jest": "^29.2.4",
+    "@types/node": "14.0.14",
+    "typescript": "^5.2.2"
+  }
+}
